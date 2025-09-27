@@ -1,0 +1,3 @@
+# Insta / Shorts / FB Downloader Bot
+Telegram bot that downloads Instagram Reels, YouTube Shorts and Facebook videos.
+Set BOT_TOKEN as an environment variable on the host (Render).
